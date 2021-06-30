@@ -38,10 +38,16 @@ for (let i = 0; i <= 4; i++) {
 // 3 is oneven
 // .... etc.
 // 15 is oneven
-
-for (let i = 0; i <= 15 ; i++) {
-    if (i = )
-}
+//
+// for (let i = 0; i <= 15; i++) {
+//     if (i === 2) {
+//         console.log(i
+//         'even'
+//     )
+//         ;
+//     }
+//
+// }
 
 
 // Tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over..
