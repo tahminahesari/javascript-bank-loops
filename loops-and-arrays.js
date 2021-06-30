@@ -1,3 +1,4 @@
+
 // ==========================================
 // Opdracht 1
 // Schrijf een script dat iedere naam in bovenstaande array vervangt door een koosnaampje, door er -"je" achter te plakken.
@@ -5,6 +6,8 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
+console.log(names);
+
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
