@@ -21,8 +21,12 @@ for (let i = 0; i < 3; i++) {
 // klaar!
  // ==========================================
 
-for (let i = 0; i < 4; i++) {
+for (let i = 0; i <= 4; i++) {
     console.log("loop...");
+
+    if (i === 4) {
+        console.log("Klaar!");
+    }
 }
 
 // ==========================================
@@ -34,6 +38,11 @@ for (let i = 0; i < 4; i++) {
 // 3 is oneven
 // .... etc.
 // 15 is oneven
+
+for (let i = 0; i <= 15 ; i++) {
+    if (i = )
+}
+
 
 // Tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over..
 // ==========================================
